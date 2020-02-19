@@ -6,3 +6,4 @@ while number != 0:
         biggest = num
     number //= 10
 print(biggest)
+
