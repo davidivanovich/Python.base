@@ -7,3 +7,4 @@ elif revenue == costs:
     print('В этом периоде вы работали в 0.')
 else:
     print('Убытки')
+
